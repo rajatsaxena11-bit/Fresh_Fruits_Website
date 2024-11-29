@@ -1,0 +1,50 @@
+.flexproperties{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+li{
+    list-style: none;
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.items{
+    display: none;
+    position: absolute;
+    padding: 20px;
+    
+}
+.items li{
+   padding-top: 10px;
+}
+.menu:hover .items{
+    display: block;
+}
+h5{
+    color: coral;
+    letter-spacing: 1px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+h2{
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.banner p{
+    display: grid;
+    place-items: center;
+    letter-spacing: 1px;
+    font-weight: 500;
+    text-align: justify;
+    margin-top: 50px;
+}
+
+
+

@@ -1,0 +1,214 @@
+{
+  "accountlogin": [
+    {
+      "id": "1",
+      "mail": "admin@gmail.com",
+      "password": "123"
+    }
+  ],
+  "contact": [
+    {
+      "id": "e83d",
+      "name": " Rajat",
+      "email": "admin12@gmail.com",
+      "number": "123456",
+      "subject": " ReactJs",
+      "message": " Updated"
+    },
+    {
+      "id": "796c",
+      "name": " Raj",
+      "email": "raj@gmail.com",
+      "number": "123456",
+      "subject": " Query",
+      "message": " Update"
+    }
+  ],
+  "orderlist": [
+    {
+      "id": "14c4",
+      "img": " ",
+      "firstname": " ",
+      "lastname": " ",
+      "email": " ",
+      "number": " ",
+      "address": " ",
+      "city": " ",
+      "state": " ",
+      "postcode": " ",
+      "country": " "
+    },
+    {
+      "id": "361a",
+      "img": " ",
+      "firstname": " Rajat",
+      "lastname": " a",
+      "email": "rajat@gmail.com",
+      "number": "1",
+      "address": " Noida",
+      "city": " Noida",
+      "state": " Up",
+      "postcode": " ",
+      "country": " "
+    },
+    {
+      "id": "8bf0",
+      "img": " ",
+      "firstname": " ",
+      "lastname": " ",
+      "email": " ",
+      "number": " ",
+      "address": " ",
+      "city": " ",
+      "state": " ",
+      "postcode": " ",
+      "country": " "
+    },
+    {
+      "id": "6451",
+      "img": " ",
+      "firstname": " ",
+      "lastname": " ",
+      "email": " ",
+      "number": " ",
+      "address": " ",
+      "city": " ",
+      "state": " ",
+      "postcode": " ",
+      "country": " "
+    }
+  ],
+  "Shipping": [],
+  "FruitsData": [
+    {
+      "name": "Apple",
+      "quentity": 1,
+      "price": 200,
+      "pricecut": 180,
+      "image": "https://tiimg.tistatic.com/fp/1/007/744/fresh-and-natural-no-added-preservatives-good-for-health-delicious-red-apple-944.jpg",
+      "productId": 1,
+      "id": "1"
+    },
+    {
+      "name": "Mango",
+      "quentity": 1,
+      "price": 190,
+      "pricecut": 170,
+      "image": "https://5.imimg.com/data5/ES/VT/BD/SELLER-104090949/mango.jpg",
+      "productId": 2,
+      "id": "2"
+    },
+    {
+      "name": "Banana",
+      "quentity": 1,
+      "price": 100,
+      "pricecut": 80,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/TK/FE/IX/87660796/banana-fruit.jpg",
+      "productId": 3,
+      "id": "3"
+    },
+    {
+      "name": "Grapes",
+      "quentity": 1,
+      "price": 200,
+      "pricecut": 150,
+      "image": "https://5.imimg.com/data5/QF/OB/XF/SELLER-54547005/grapes-500x500.jpg",
+      "productId": 4,
+      "id": "4"
+    },
+    {
+      "name": "Guavava",
+      "quentity": 1,
+      "price": 180,
+      "pricecut": 160,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/344538283/ES/LS/SE/193586530/guava-fruit-500x500.jpg",
+      "productId": 5,
+      "id": "5"
+    },
+    {
+      "name": "Orange",
+      "quentity": 1,
+      "price": 100,
+      "pricecut": 80,
+      "image": "https://5.imimg.com/data5/PA/RJ/MY-49648260/fresh-orange.jpg",
+      "productId": 6,
+      "id": "6"
+    },
+    {
+      "name": "Pomegrantes",
+      "quentity": 1,
+      "price": 100,
+      "pricecut": 80,
+      "image": "https://i.pinimg.com/564x/0b/eb/ff/0bebff1f5c63a28ec8ccd701ef218f45.jpg",
+      "productId": 7,
+      "id": "7"
+    },
+    {
+      "name": "Pineapples",
+      "quentity": 1,
+      "price": 100,
+      "pricecut": 70,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/9/GB/YI/AU/45117192/fresh-pineapple-500x500.jpg",
+      "productId": 8,
+      "id": "8"
+    },
+    {
+      "name": "Stawberry",
+      "quentity": 1,
+      "price": 200,
+      "pricecut": 170,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/8/HP/QB/NR/107172905/fresh-strawberry-500x500.jpg",
+      "productId": 9,
+      "id": "9"
+    }
+  ],
+  "FruitsData1": [
+    {
+      "name": "Apple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+      "qty": 35,
+      "price": 200,
+      "id": "6f86"
+    },
+    {
+      "name": "Banana",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg",
+      "qty": 12,
+      "price": 80,
+      "id": "8372"
+    },
+    {
+      "name": "Grapes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "weight": 0.1,
+      "qty": 45,
+      "price": 100,
+      "id": "658d"
+    },
+    {
+      "name": "Pineapple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/286px-Pineapple_and_cross_section.jpg",
+      "qty": 200,
+      "price": 220,
+      "id": "e578"
+    }
+  ],
+  "cart": [
+    {
+      "id": "6f86",
+      "name": "Apple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+      "qty": 35,
+      "price": 200
+    }
+  ],
+  "cartOne": [
+    {
+      "id": "1cef",
+      "name": "Apple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+      "qty": 35,
+      "price": 200
+    }
+  ]
+}
